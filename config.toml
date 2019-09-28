@@ -1,0 +1,4 @@
+baseURL = "https://jmcduffie32.github.io/resume"
+languageCode = "en-us"
+title = "Jon McDuffie"
+theme = "ananke"
